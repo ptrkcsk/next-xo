@@ -13,7 +13,6 @@
     "react-dom": "17.0.2"
   },
   "devDependencies": {
-    "eslint": "7.32.0",
     "eslint-config-next": "12.0.3",
     "xo": "^0.46.4"
   }
